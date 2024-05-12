@@ -1,11 +1,10 @@
 :root {
-  --magenta: rgb(210, 51, 210);
-  --cyan: rgb(98, 230, 230);
-  --yellow: rgb(237, 237, 32);
+  --magenta: rgb(210, 51, 59);
+  --cyan: rgb(223, 245, 245);
+  --yellow: rgb(73, 237, 32);
   --font-color: rgb(33, 33, 33);
-  --font-color-light: rgb(155, 155, 155);
+  --font-color-light: rgb(211, 69, 69);
   --background: rgb(255, 255, 255);
-  --background--light: rgb(230, 230, 230);
 }
 
 * {
