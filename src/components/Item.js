@@ -1,3 +1,5 @@
+//`useState` hook manages the state `isInCart`-true/false
+//event handler: `handleAddToCartClick` manages(by toggle) the state `isInCart`
 import React, { useState } from "react";
 
 function Item({ name, category }) {
